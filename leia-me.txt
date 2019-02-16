@@ -1,0 +1,2 @@
+Neste aplicativo o usuário coloca a idade do cachorro e ele retorna essa idade comparada com os anos de vida de uma pessoa. 
+idadeDoCachorro * 7 
